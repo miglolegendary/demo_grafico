@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/eliezerhernandezweb/static/css/main.175a35fa.chunk.css",
-    "main.js": "/eliezerhernandezweb/static/js/main.61546ce4.chunk.js",
-    "main.js.map": "/eliezerhernandezweb/static/js/main.61546ce4.chunk.js.map",
+    "main.js": "/eliezerhernandezweb/static/js/main.715c3157.chunk.js",
+    "main.js.map": "/eliezerhernandezweb/static/js/main.715c3157.chunk.js.map",
     "runtime-main.js": "/eliezerhernandezweb/static/js/runtime-main.8683031b.js",
     "runtime-main.js.map": "/eliezerhernandezweb/static/js/runtime-main.8683031b.js.map",
     "static/css/2.46a6b073.chunk.css": "/eliezerhernandezweb/static/css/2.46a6b073.chunk.css",
-    "static/js/2.a076e32e.chunk.js": "/eliezerhernandezweb/static/js/2.a076e32e.chunk.js",
-    "static/js/2.a076e32e.chunk.js.map": "/eliezerhernandezweb/static/js/2.a076e32e.chunk.js.map",
+    "static/js/2.086b50d7.chunk.js": "/eliezerhernandezweb/static/js/2.086b50d7.chunk.js",
+    "static/js/2.086b50d7.chunk.js.map": "/eliezerhernandezweb/static/js/2.086b50d7.chunk.js.map",
     "index.html": "/eliezerhernandezweb/index.html",
-    "precache-manifest.054888897bf919dfdb3f56a8ec72bc19.js": "/eliezerhernandezweb/precache-manifest.054888897bf919dfdb3f56a8ec72bc19.js",
+    "precache-manifest.6e9fe421c3d1b5b125f37914a670e787.js": "/eliezerhernandezweb/precache-manifest.6e9fe421c3d1b5b125f37914a670e787.js",
     "service-worker.js": "/eliezerhernandezweb/service-worker.js",
     "static/css/2.46a6b073.chunk.css.map": "/eliezerhernandezweb/static/css/2.46a6b073.chunk.css.map",
     "static/css/main.175a35fa.chunk.css.map": "/eliezerhernandezweb/static/css/main.175a35fa.chunk.css.map",
-    "static/js/2.a076e32e.chunk.js.LICENSE.txt": "/eliezerhernandezweb/static/js/2.a076e32e.chunk.js.LICENSE.txt",
+    "static/js/2.086b50d7.chunk.js.LICENSE.txt": "/eliezerhernandezweb/static/js/2.086b50d7.chunk.js.LICENSE.txt",
     "static/media/androide.jpg": "/eliezerhernandezweb/static/media/androide.d0832c90.jpg",
     "static/media/chicalaptop.jpg": "/eliezerhernandezweb/static/media/chicalaptop.5e59a0a5.jpg",
     "static/media/covid2.png": "/eliezerhernandezweb/static/media/covid2.d8bd22c1.png",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.8683031b.js",
     "static/css/2.46a6b073.chunk.css",
-    "static/js/2.a076e32e.chunk.js",
+    "static/js/2.086b50d7.chunk.js",
     "static/css/main.175a35fa.chunk.css",
-    "static/js/main.61546ce4.chunk.js"
+    "static/js/main.715c3157.chunk.js"
   ]
 }
