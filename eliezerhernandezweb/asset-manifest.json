@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/eliezerhernandezweb/static/css/main.175a35fa.chunk.css",
-    "main.js": "/eliezerhernandezweb/static/js/main.972a6da4.chunk.js",
-    "main.js.map": "/eliezerhernandezweb/static/js/main.972a6da4.chunk.js.map",
+    "main.js": "/eliezerhernandezweb/static/js/main.f91fa969.chunk.js",
+    "main.js.map": "/eliezerhernandezweb/static/js/main.f91fa969.chunk.js.map",
     "runtime-main.js": "/eliezerhernandezweb/static/js/runtime-main.8683031b.js",
     "runtime-main.js.map": "/eliezerhernandezweb/static/js/runtime-main.8683031b.js.map",
     "static/js/2.7cd99938.chunk.js": "/eliezerhernandezweb/static/js/2.7cd99938.chunk.js",
     "static/js/2.7cd99938.chunk.js.map": "/eliezerhernandezweb/static/js/2.7cd99938.chunk.js.map",
     "index.html": "/eliezerhernandezweb/index.html",
-    "precache-manifest.7ade776b875b3d4595add9ffc57edba4.js": "/eliezerhernandezweb/precache-manifest.7ade776b875b3d4595add9ffc57edba4.js",
+    "precache-manifest.81eed354ef6ef530cf8800233c27a732.js": "/eliezerhernandezweb/precache-manifest.81eed354ef6ef530cf8800233c27a732.js",
     "service-worker.js": "/eliezerhernandezweb/service-worker.js",
     "static/css/main.175a35fa.chunk.css.map": "/eliezerhernandezweb/static/css/main.175a35fa.chunk.css.map",
     "static/js/2.7cd99938.chunk.js.LICENSE.txt": "/eliezerhernandezweb/static/js/2.7cd99938.chunk.js.LICENSE.txt",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.8683031b.js",
     "static/js/2.7cd99938.chunk.js",
     "static/css/main.175a35fa.chunk.css",
-    "static/js/main.972a6da4.chunk.js"
+    "static/js/main.f91fa969.chunk.js"
   ]
 }
