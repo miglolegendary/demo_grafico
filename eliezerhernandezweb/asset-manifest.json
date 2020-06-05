@@ -1,19 +1,21 @@
 {
   "files": {
     "main.css": "/eliezerhernandezweb/static/css/main.1a5531e2.chunk.css",
-    "main.js": "/eliezerhernandezweb/static/js/main.297910ea.chunk.js",
-    "main.js.map": "/eliezerhernandezweb/static/js/main.297910ea.chunk.js.map",
+    "main.js": "/eliezerhernandezweb/static/js/main.e6ebfe4e.chunk.js",
+    "main.js.map": "/eliezerhernandezweb/static/js/main.e6ebfe4e.chunk.js.map",
     "runtime-main.js": "/eliezerhernandezweb/static/js/runtime-main.8683031b.js",
     "runtime-main.js.map": "/eliezerhernandezweb/static/js/runtime-main.8683031b.js.map",
     "static/css/2.46a6b073.chunk.css": "/eliezerhernandezweb/static/css/2.46a6b073.chunk.css",
-    "static/js/2.ef472922.chunk.js": "/eliezerhernandezweb/static/js/2.ef472922.chunk.js",
-    "static/js/2.ef472922.chunk.js.map": "/eliezerhernandezweb/static/js/2.ef472922.chunk.js.map",
+    "static/js/2.c8450fe4.chunk.js": "/eliezerhernandezweb/static/js/2.c8450fe4.chunk.js",
+    "static/js/2.c8450fe4.chunk.js.map": "/eliezerhernandezweb/static/js/2.c8450fe4.chunk.js.map",
     "index.html": "/eliezerhernandezweb/index.html",
-    "precache-manifest.463047c02227a3e8ffff6eee56be75ac.js": "/eliezerhernandezweb/precache-manifest.463047c02227a3e8ffff6eee56be75ac.js",
+    "precache-manifest.0598ee5502a54ce558a1cd22a3eb7356.js": "/eliezerhernandezweb/precache-manifest.0598ee5502a54ce558a1cd22a3eb7356.js",
     "service-worker.js": "/eliezerhernandezweb/service-worker.js",
     "static/css/2.46a6b073.chunk.css.map": "/eliezerhernandezweb/static/css/2.46a6b073.chunk.css.map",
     "static/css/main.1a5531e2.chunk.css.map": "/eliezerhernandezweb/static/css/main.1a5531e2.chunk.css.map",
-    "static/js/2.ef472922.chunk.js.LICENSE.txt": "/eliezerhernandezweb/static/js/2.ef472922.chunk.js.LICENSE.txt",
+    "static/js/2.c8450fe4.chunk.js.LICENSE.txt": "/eliezerhernandezweb/static/js/2.c8450fe4.chunk.js.LICENSE.txt",
+    "static/media/CoverImage1.jpg": "/eliezerhernandezweb/static/media/CoverImage1.75c51318.jpg",
+    "static/media/CoverImage5.jpg": "/eliezerhernandezweb/static/media/CoverImage5.8390e08c.jpg",
     "static/media/SpringSecurity.svg": "/eliezerhernandezweb/static/media/SpringSecurity.b712a4cd.svg",
     "static/media/Springboot.svg": "/eliezerhernandezweb/static/media/Springboot.7f2e24fb.svg",
     "static/media/android-4.svg": "/eliezerhernandezweb/static/media/android-4.d46f53f2.svg",
@@ -51,8 +53,8 @@
   "entrypoints": [
     "static/js/runtime-main.8683031b.js",
     "static/css/2.46a6b073.chunk.css",
-    "static/js/2.ef472922.chunk.js",
+    "static/js/2.c8450fe4.chunk.js",
     "static/css/main.1a5531e2.chunk.css",
-    "static/js/main.297910ea.chunk.js"
+    "static/js/main.e6ebfe4e.chunk.js"
   ]
 }
